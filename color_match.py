@@ -49,5 +49,7 @@ if(user_color == 1 or user_color == 2 or user_color == 3):
 else: 
     print('Error: Please enter a valid colour selection.')
     print('Ensure your input is a number.')
+    
+exit = input("\n\nPress any key to exit.")
 
 #Source of colour wheel used for color combinations --> https://brightside.me/creativity-home/the-ultimate-color-combinations-cheat-sheet-92405/
